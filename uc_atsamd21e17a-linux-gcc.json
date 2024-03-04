@@ -11,6 +11,7 @@
 		"DONT_USE_CMSIS_INIT"
 	],
 	"cflags": [
+		"-I ./umake/nimolib-atsamd21/",
 		"-I ./umake/nimolib-atsamd21/sam/",
 		"-I ./umake/nimolib-atsamd21/sam/samd21/include",
 		"-I ./umake/nimolib-atsamd21/sam/samd21/include/component",
