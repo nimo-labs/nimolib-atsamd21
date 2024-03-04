@@ -3,7 +3,7 @@
 	"ucFamily": "atsamd",
 	"linkerFile": "./umake/nimolib-atsamd21/linker/samd21e17a.ld",
 	"supportFiles": [
-		"umake/nimolib/nimolib-atsamd21/samd21/startup_samd21.c"
+		"umake/nimolib-atsamd21/samd21/startup_samd21.c"
 	],
 	"defines": [
 		"__SAMD21",
