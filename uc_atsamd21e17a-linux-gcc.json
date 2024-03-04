@@ -12,9 +12,9 @@
 	],
 	"cflags": [
 		"-I ./umake/nimolib-atsamd21/",
-		"-I ./umake/nimolib-atsamd21/sam/",
-		"-I ./umake/nimolib-atsamd21/sam/samd21/include",
-		"-I ./umake/nimolib-atsamd21/sam/samd21/include/component",
+		"-I ./umake/nimolib-atsamd21/",
+		"-I ./umake/nimolib-atsamd21/samd21/include",
+		"-I ./umake/nimolib-atsamd21/samd21/include/component",
 		"-W -Wall --std=gnu99 -Os",
 		"-fno-diagnostics-show-caret",
 		"-fdata-sections -ffunction-sections",
